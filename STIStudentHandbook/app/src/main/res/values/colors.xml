@@ -3,4 +3,6 @@
     <color name="colorPrimary">#146cbc</color>
     <color name="colorPrimaryDark">#146cbc</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="sti_background_blue">#0C3C74</color>
+
 </resources>
